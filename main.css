@@ -9,6 +9,8 @@ body {
 
 .checkboxHolder {
   background-color: maroon;
+  border-radius: 2vw !important;
+  padding: 2vw;
 }
 
 .item {
